@@ -2,10 +2,11 @@ Chat System
 Chat system software made with Java using both TCP and UDP sockets. The internal documentation can be accessed through the following link: https://sway.office.com/fkxY6yudPA80BnK7?ref=Link
 
 Execution Steps:
-  Execute the directory by running: java -jar directory (this simulates a DNS service and uses   UDP).
+  Execute the directory by running: java -jar directory (this simulates a DNS service and uses UDP).
   Execute the server by running: java -jar server <ip>. Example: java -jar server localhost.
   Connect to the server by running: java -jar cliente <ip>.
 
+  
 Available Commands:
   Out of Room:
     nick <your nick>: Set your nickname.
